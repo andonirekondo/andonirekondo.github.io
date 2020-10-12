@@ -1,3 +1,3 @@
-# Bienvenida a mi blog
+# Ongi etorri guztioi
 
-Me alegro de que estés aquí. Pienso hablar sobre ...
+Futbolari buruzko gauza ugari ikusiko ditugu elkarrekin
