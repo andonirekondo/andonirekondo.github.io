@@ -1,6 +1,6 @@
 ---
-title: "Wireframes y prototipos"
-date: 2020-12-04
+Título: "Wireframes y prototipos"
+Fecha: 2020-12-04
 ---
 __Lectura:__ Webdesdecero (2015), Wireframes: qué son y cómo crearlos
 

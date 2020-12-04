@@ -1,4 +1,4 @@
 ---
-title: "Estrategia de contenido"
-date: 2020-10-17
+Título: "Estrategia de contenido"
+Fecha: 2020-10-17
 ---

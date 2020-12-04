@@ -1,4 +1,4 @@
 ---
-title: "Introducción"
-date: 2020-10-17
+Título: "Introducción"
+Fecha: 2020-10-17
 ---
