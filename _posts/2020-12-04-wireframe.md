@@ -23,6 +23,8 @@ __Tipos de *wireframes*__
 
 Existen varios tipos de herramientas para crear *wireframes*:
 * Creadas a mano: Es la más sencilla y económica y el material necesario es un papel y un bolígrafo.
+![paperekoa](paperekoa.jpg)
+
 * Utilizar plantillas imprimibles para wireframes
     * Web sketching template: Creado para imprimir en A4 y con resolución 1024x758
     * Paper Browser: Resolución 1024x780 y con guías para diseños de 960 o 800 píxels.
