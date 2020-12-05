@@ -23,6 +23,7 @@ __Tipos de *wireframes*__
 
 Existen varios tipos de herramientas para crear *wireframes*:
 * Creadas a mano: Es la más sencilla y económica y el material necesario es un papel y un bolígrafo.
+
 ![paperekoa](paperekoa.jpg)
 
 * Utilizar plantillas imprimibles para wireframes
