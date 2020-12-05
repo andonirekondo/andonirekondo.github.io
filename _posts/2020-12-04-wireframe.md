@@ -30,6 +30,9 @@ Existen varios tipos de herramientas para crear *wireframes*:
     * Web sketching template: Creado para imprimir en A4 y con resolución 1024x758
     * Paper Browser: Resolución 1024x780 y con guías para diseños de 960 o 800 píxels.
     * Zurb Responsive Scketches: Web responsive. Se adecua a la herramienta que utilizas: móvil, tablet, ordenador...
+    
+    ![zurb](zurb.jpg)
+    
     * Sticky Jots
 * Utilizar un programa o aplicación
     * Mockflow: Para crear wireframes en la nube
