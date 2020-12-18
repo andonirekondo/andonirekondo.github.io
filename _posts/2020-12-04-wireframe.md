@@ -24,14 +24,14 @@ __Tipos de *wireframes*__
 Existen varios tipos de herramientas para crear *wireframes*:
 * Creadas a mano: Es la más sencilla y económica y el material necesario es un papel y un bolígrafo.
 
-![paperekoa](/argazkiak/paperekoa.jpg)
+![paperekoa](paperekoa.jpg)
 
 * Utilizar plantillas imprimibles para wireframes
     * Web sketching template: Creado para imprimir en A4 y con resolución 1024x758
     * Paper Browser: Resolución 1024x780 y con guías para diseños de 960 o 800 píxels.
     * Zurb Responsive Scketches: Web responsive. Se adecua a la herramienta que utilizas: móvil, tablet, ordenador...
     
-    ![zurb](/argazkiak/zurb.jpg)
+    ![zurb](zurb.jpg)
     
     * Sticky Jots
 * Utilizar un programa o aplicación
