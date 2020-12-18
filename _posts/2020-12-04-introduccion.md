@@ -23,13 +23,13 @@ __Lectura:__ Hassan Martin (2005), La experiencia del usuario
 * Comportamiento emocional del usuario: emociones + estado de humor + sentimientos
 * Los aspectos emocionales juegan un papel fundamental en la interacción del usuario porque los estados emocionales afectan a los procesos cognitivos.
 * Las emociones afectan a la capacidad de atención y memorización, al rendimiento del usuario y a su valoración del producto.
-* El diseño de un producto puede evocar emociones de forma explícita, expresando 'afecto'; o implícita, a través de su estética.
+* El diseño de un producto puede evocar emociones de forma explícita, expresando *'afecto'*; o implícita, a través de su estética.
     * En el primer caso el producto intenta emular 'estados afectivos' con la intención de modelar así los estados afectivos o emocionales del usuario 
     * Otro medio de comunicación emocional es la estética, la cual juega un papel fundamental en la satisfacción y placer de uso
 
 
 3. __Origen__
-* La Experiencia del Usuario representa un cambio emergente del propio concepto de usabilidad
+* La Experiencia del Usuario representa un *cambio emergente* del propio concepto de usabilidad
 * Objetivo: intenta resolver el problema estratégico de la utilidad del producto y el problema psicológico del placer y diversión de su uso.
 * El concepto de la Experiencia del Usuario tiene su origen en el campo del Marketing, estando muy vinculado con el concepto de Experiencia de Marca.
 
